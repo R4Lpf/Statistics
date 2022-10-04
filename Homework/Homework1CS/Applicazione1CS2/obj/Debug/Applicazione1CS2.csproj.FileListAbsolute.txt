@@ -1,0 +1,11 @@
+C:\Users\aralm\source\repos\Applicazione1CS2\Applicazione1CS2\bin\Debug\Applicazione1CS2.exe.config
+C:\Users\aralm\source\repos\Applicazione1CS2\Applicazione1CS2\bin\Debug\Applicazione1CS2.exe
+C:\Users\aralm\source\repos\Applicazione1CS2\Applicazione1CS2\bin\Debug\Applicazione1CS2.pdb
+C:\Users\aralm\source\repos\Applicazione1CS2\Applicazione1CS2\obj\Debug\Applicazione1CS2.csproj.AssemblyReference.cache
+C:\Users\aralm\source\repos\Applicazione1CS2\Applicazione1CS2\obj\Debug\Applicazione1CS2.csproj.SuggestedBindingRedirects.cache
+C:\Users\aralm\source\repos\Applicazione1CS2\Applicazione1CS2\obj\Debug\Applicazione1CS2.Form1.resources
+C:\Users\aralm\source\repos\Applicazione1CS2\Applicazione1CS2\obj\Debug\Applicazione1CS2.Properties.Resources.resources
+C:\Users\aralm\source\repos\Applicazione1CS2\Applicazione1CS2\obj\Debug\Applicazione1CS2.csproj.GenerateResource.cache
+C:\Users\aralm\source\repos\Applicazione1CS2\Applicazione1CS2\obj\Debug\Applicazione1CS2.csproj.CoreCompileInputs.cache
+C:\Users\aralm\source\repos\Applicazione1CS2\Applicazione1CS2\obj\Debug\Applicazione1CS2.exe
+C:\Users\aralm\source\repos\Applicazione1CS2\Applicazione1CS2\obj\Debug\Applicazione1CS2.pdb
