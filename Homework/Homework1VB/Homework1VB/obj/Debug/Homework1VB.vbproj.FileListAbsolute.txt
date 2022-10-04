@@ -1,0 +1,13 @@
+C:\Users\aralm\source\repos\Homework1VB\Homework1VB\bin\Debug\Homework1VB.exe.config
+C:\Users\aralm\source\repos\Homework1VB\Homework1VB\bin\Debug\Homework1VB.exe
+C:\Users\aralm\source\repos\Homework1VB\Homework1VB\bin\Debug\Homework1VB.pdb
+C:\Users\aralm\source\repos\Homework1VB\Homework1VB\bin\Debug\Homework1VB.xml
+C:\Users\aralm\source\repos\Homework1VB\Homework1VB\obj\Debug\Homework1VB.vbproj.AssemblyReference.cache
+C:\Users\aralm\source\repos\Homework1VB\Homework1VB\obj\Debug\Homework1VB.vbproj.SuggestedBindingRedirects.cache
+C:\Users\aralm\source\repos\Homework1VB\Homework1VB\obj\Debug\Homework1VB.Form1.resources
+C:\Users\aralm\source\repos\Homework1VB\Homework1VB\obj\Debug\Homework1VB.Resources.resources
+C:\Users\aralm\source\repos\Homework1VB\Homework1VB\obj\Debug\Homework1VB.vbproj.GenerateResource.cache
+C:\Users\aralm\source\repos\Homework1VB\Homework1VB\obj\Debug\Homework1VB.vbproj.CoreCompileInputs.cache
+C:\Users\aralm\source\repos\Homework1VB\Homework1VB\obj\Debug\Homework1VB.exe
+C:\Users\aralm\source\repos\Homework1VB\Homework1VB\obj\Debug\Homework1VB.xml
+C:\Users\aralm\source\repos\Homework1VB\Homework1VB\obj\Debug\Homework1VB.pdb
