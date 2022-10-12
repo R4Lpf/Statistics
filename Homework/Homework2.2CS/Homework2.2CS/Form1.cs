@@ -36,8 +36,9 @@ namespace Homework2._2CS
         }
 
         private void DrawDataGridView(List<string[]> parsedDAta) {
-            dataGridView1.ColumnCount = 15;
-            for (int i = 0; i < 15; i++) {
+            int c = 15;
+            dataGridView1.ColumnCount = c;
+            for (int i = 0; i < c; i++) {
                 var sb = new StringBuilder(parsedDAta[0][i]);
                 sb.Replace("_", " ");
                 sb.Replace("\"", "");
