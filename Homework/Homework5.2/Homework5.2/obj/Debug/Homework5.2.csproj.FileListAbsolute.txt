@@ -1,0 +1,11 @@
+C:\Users\aralm\Documents\GitHub\Statistics\Homework\Homework5.2\Homework5.2\bin\Debug\Homework5.2.exe.config
+C:\Users\aralm\Documents\GitHub\Statistics\Homework\Homework5.2\Homework5.2\bin\Debug\Homework5.2.exe
+C:\Users\aralm\Documents\GitHub\Statistics\Homework\Homework5.2\Homework5.2\bin\Debug\Homework5.2.pdb
+C:\Users\aralm\Documents\GitHub\Statistics\Homework\Homework5.2\Homework5.2\obj\Debug\Homework5.2.csproj.AssemblyReference.cache
+C:\Users\aralm\Documents\GitHub\Statistics\Homework\Homework5.2\Homework5.2\obj\Debug\Homework5.2.csproj.SuggestedBindingRedirects.cache
+C:\Users\aralm\Documents\GitHub\Statistics\Homework\Homework5.2\Homework5.2\obj\Debug\Homework5._2.Form1.resources
+C:\Users\aralm\Documents\GitHub\Statistics\Homework\Homework5.2\Homework5.2\obj\Debug\Homework5._2.Properties.Resources.resources
+C:\Users\aralm\Documents\GitHub\Statistics\Homework\Homework5.2\Homework5.2\obj\Debug\Homework5.2.csproj.GenerateResource.cache
+C:\Users\aralm\Documents\GitHub\Statistics\Homework\Homework5.2\Homework5.2\obj\Debug\Homework5.2.csproj.CoreCompileInputs.cache
+C:\Users\aralm\Documents\GitHub\Statistics\Homework\Homework5.2\Homework5.2\obj\Debug\Homework5.2.exe
+C:\Users\aralm\Documents\GitHub\Statistics\Homework\Homework5.2\Homework5.2\obj\Debug\Homework5.2.pdb
