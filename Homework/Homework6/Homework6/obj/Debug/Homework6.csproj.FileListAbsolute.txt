@@ -1,0 +1,11 @@
+C:\Users\aralm\Documents\GitHub\Statistics\Homework\Homework6\Homework6\obj\Debug\Homework6.csproj.AssemblyReference.cache
+C:\Users\aralm\Documents\GitHub\Statistics\Homework\Homework6\Homework6\obj\Debug\Homework6.csproj.SuggestedBindingRedirects.cache
+C:\Users\aralm\Documents\GitHub\Statistics\Homework\Homework6\Homework6\obj\Debug\Homework6.Form1.resources
+C:\Users\aralm\Documents\GitHub\Statistics\Homework\Homework6\Homework6\obj\Debug\Homework6.Properties.Resources.resources
+C:\Users\aralm\Documents\GitHub\Statistics\Homework\Homework6\Homework6\obj\Debug\Homework6.csproj.GenerateResource.cache
+C:\Users\aralm\Documents\GitHub\Statistics\Homework\Homework6\Homework6\obj\Debug\Homework6.csproj.CoreCompileInputs.cache
+C:\Users\aralm\Documents\GitHub\Statistics\Homework\Homework6\Homework6\bin\Debug\Homework6.exe.config
+C:\Users\aralm\Documents\GitHub\Statistics\Homework\Homework6\Homework6\bin\Debug\Homework6.exe
+C:\Users\aralm\Documents\GitHub\Statistics\Homework\Homework6\Homework6\bin\Debug\Homework6.pdb
+C:\Users\aralm\Documents\GitHub\Statistics\Homework\Homework6\Homework6\obj\Debug\Homework6.exe
+C:\Users\aralm\Documents\GitHub\Statistics\Homework\Homework6\Homework6\obj\Debug\Homework6.pdb
